@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ali;ISTQB+CTFL+4.0+Certified;Software+QA+Engineer;Manual+Tester;Learning+Playwright+Automation" alt="Typing SVG" />
+</p>
 # Hi there 👋, I'm Muhammad Ali
 
 ## 💻 About Me
